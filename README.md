@@ -105,7 +105,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ### 2. Open the project folder
 
 ```bash
-cd expense-tracker
+cd personal-expense-tracker
 ```
 
 ### 3. Run the program
