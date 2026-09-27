@@ -92,14 +92,15 @@ Contains helper functions for input validation, including checking for non-empty
 - VS Code or any Python-supported code editor
 - Command-line terminal
 
-No additional packages are required.
+No external Python packages are required.
+No additional configuration is required.
 
 ## How to Run
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shambhavigupta19/personal-expense-tracker.git
 ```
 
 ### 2. Open the project folder
